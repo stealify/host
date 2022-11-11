@@ -1,4 +1,4 @@
 # host
 Implements fundamental Host Components
 
-run, watch, load, resolve, loop, schedulers
+run, schedulers, watch, load, resolve, loop
